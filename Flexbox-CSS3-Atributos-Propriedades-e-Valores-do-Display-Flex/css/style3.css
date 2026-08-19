@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header {
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    height: 70px;
+}
+
+footer {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    margin-top: 375px;
+    align-items: flex-end;
+    height: 115px;
+    margin-top: 100px;
+}
+aside {
+    background-color: aqua;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-left: 900px;
+    height: 400px;
+    margin-bottom: -170px;
+}
+main {
+    background-color: blueviolet;
+    margin-right: 365px;
+    height: 400px;
+    margin-top: -400px;
+    margin-bottom: -100px;
+}
+
+
+.deitado {
+    background-color: black;
+    color: black;
+    height: 3px;
+    display: flex;
+    align-items: center;
+}
