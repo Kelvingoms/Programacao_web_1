@@ -1,0 +1,27 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid;
+}
+aside {
+    margin: -320px 10px;
+    display: flex;
+    justify-content: flex-start;
+    border: 5px solid;
+    width: 10%;
+    height: 400px;
+}
+.main1 {
+    margin: 10px 400px;
+    border: 5px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 300px;
+}
+footer {
+    border: 5px solid;
+    display: flex;
+}
