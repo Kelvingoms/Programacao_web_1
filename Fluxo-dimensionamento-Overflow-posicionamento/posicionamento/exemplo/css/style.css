@@ -1,0 +1,12 @@
+.caixa {
+    width: 600px;
+    height: 100%;
+    border: 2px solid blue;
+}
+h4 {
+    border: 2px solid green;
+    display: inline-block;
+    position: sticky;
+    background-color: yellow;
+    top: 0px ;
+}
